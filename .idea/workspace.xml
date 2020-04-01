@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2b2d9f7-a149-4665-b0e8-cf5f8c3dba80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/product_item.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/css/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/css/._bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/css/._style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/images/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/images/._cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/images/._heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/images/._list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/images/._logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/images/._mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/images/._phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/images/._search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/images/._visa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/js/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/js/._bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/js/._jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/assets/js/._script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/controllers/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/controllers/._langController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/controllers/._notFoundController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/core/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/core/._Language.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/lang/._en.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/lang/._pt-br.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/media/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/media/products/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/media/products/._1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/media/products/._2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/media/products/._3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/media/products/._4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/media/products/._5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/media/products/._6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/media/products/._7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/media/products/._8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/models/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/models/._Brands.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/models/._products.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/views/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/views/._404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/__MACOSX/views/._product_item.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/images/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/images/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/images/list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/images/mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/images/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/images/visa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/assets/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/banco_v3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/controllers/homeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/controllers/langController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/controllers/notFoundController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/core/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/core/Core.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/core/Language.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/core/Model.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/environment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/lang/en.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/lang/pt-br.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/media/products/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/media/products/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/media/products/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/media/products/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/media/products/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/media/products/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/media/products/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/media/products/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/models/Brands.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/models/products.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/nova_loja_v3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/views/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/views/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/views/product_item.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nova pasta/views/template.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/homeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/homeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang/en.ini" beforeDir="false" afterPath="$PROJECT_DIR$/lang/en.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang/pt-br.ini" beforeDir="false" afterPath="$PROJECT_DIR$/lang/pt-br.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZuWnSgSKrxIBIaowlLk9P3R0hq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\loja-virtual\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2b2d9f7-a149-4665-b0e8-cf5f8c3dba80" name="Default Changelist" comment="" />
+      <created>1585689625137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585689625137</updated>
+      <workItem from="1585689626272" duration="7795000" />
+      <workItem from="1585746911762" duration="9406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
