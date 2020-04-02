@@ -349,7 +349,6 @@ footer h3 {
 	width: 40px;
 	height: 40px;
 	border: 1px solid #DDD;
-
 	font-size: 13px;
 	text-align: center;
 	line-height: 40px;
@@ -366,6 +365,9 @@ footer h3 {
 }
 .paginationArea{
 	margin-top: 30px;
+}
+.dropdown-menu{
+	width: 100%;
 }
 
 
