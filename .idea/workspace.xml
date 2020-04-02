@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2b2d9f7-a149-4665-b0e8-cf5f8c3dba80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/controllers/Categories.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/menu_subcategory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/categoriesController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/categories.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/homeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/homeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nova_loja.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nova_loja_v1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/Categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Categories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Products.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/template.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,6 +31,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\loja-virtual\models" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\loja-virtual\views" />
     </key>
@@ -60,7 +61,9 @@
       <option name="presentableId" value="Default" />
       <updated>1585689625137</updated>
       <workItem from="1585689626272" duration="7795000" />
-      <workItem from="1585746911762" duration="14376000" />
+      <workItem from="1585746911762" duration="14575000" />
+      <workItem from="1585793211400" duration="2510000" />
+      <workItem from="1585831957698" duration="3386000" />
     </task>
     <servers />
   </component>

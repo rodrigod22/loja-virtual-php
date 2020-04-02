@@ -69,7 +69,8 @@
 				<div class="container">
 					<ul class="nav navbar-nav">
 						<li class="dropdown">
-					        <a class="dropdown-toggle" data-toggle="dropdown" href="#"><?php $this->lang->get("SELECTCATEGORY");?>
+						<li class="dropdown">
+					        <a class="dropdown-toggle" data-toggle="dropdown" href="#"><?php $this->lang->get('SELECTCATEGORY');?>
 					        <span class="caret"></span></a>
 					        <ul class="dropdown-menu">
 					            <?php foreach($viewData['categories'] as $cat):?>
@@ -87,10 +88,13 @@
                                         }
                                     ?>
                                 <?php endforeach; ?>
-
 					        </ul>
 					      </li>
-						<li><a href="#">Categoria X</a></li>
+                        <?php if(isset($viewData['category_filter'])):?>
+                            <?php foreach ($viewData['category_filter'] as $cf): ?>
+                                <li><a href="<?php echo BASE_URL;?>categories/enter/<?php echo $cf['id']; ?>"><?php echo $cf['name'] ?></a></li>
+                            <?php endforeach; ?>
+                        <?php endif; ?>
 					</ul>
 				</div>
 			</nav>
