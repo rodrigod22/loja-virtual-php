@@ -15,7 +15,18 @@ class Brands extends model {
 		} else {
 			return '';
 		}
-
 	}
 
+	public function getList(){
+	    $array = array();
+
+	    $sql = "SELECT * FROM brands";
+	    $sql = $this->db->query($sql);
+
+	    if($sql->rowCount() > 0){
+	        $array = $sql->fetchAll();
+        }
+
+	    return $array;
+    }
 }
